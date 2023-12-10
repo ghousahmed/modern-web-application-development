@@ -130,6 +130,12 @@
 - ReactJS (CRA, Vite)
   - [CRA](https://create-react-app.dev/)
   - [Vite](https://vitejs.dev/)
+  - React Icons
+  - React Router DOM
+  - Context API
+  - Redux
+  - [TanStack Query](https://tanstack.com/query/v3/)
+  - [Ahooks](https://ahooks.js.org/)
 - Tailwind CSS
   - [Tailwind](https://tailwindcss.com/)
 - Material
