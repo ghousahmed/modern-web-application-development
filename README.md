@@ -9,8 +9,9 @@
 - 2 Months – 96 Hours
 
 ### Topics
-- Html5
-- Css3
+- HTML5
+  - [HTML5 and CSS3 Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+- CSS3
 - CSS Variables
 - CSS Animations
 - Media queries
