@@ -125,7 +125,7 @@
   
 
 
-## Module 3: Back-End App Development
+## Module 4: Back-End App Development
 
 ### Prerequisites
 - Module 02
