@@ -34,24 +34,60 @@
 - Domain & Hosting Subscription (Deployment)
    - [Namecheap](https://www.namecheap.com/)
 
-## Module 2: Web Front-End Development
-### Book
-- "A Smarter Way to Learn JavaScript"
+## Module 2: Front-End Development
 
 ### Pre-requisite
-- Web Designing
+- Module 1
 
 ### Topics
 - JavaScript
+  - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
+  - [Assignments](https://github.com/ghousahmed/javascript-exercises)
 - Advanced Javascript (All ES Versions)
+  - Variable Scoping
+  - Closure
+  - Template literals
+  - Destructuring
+  - Default parameters
+  - Rest parameter
+  - Spread Operator
+  - Arrow functions
+  - Enhanced object literals
+  - Iterators & For..of
+  - Generators
+  - Modules
+  - Map
+  - Array methods
+  - Higher-order function
+  - CallBack
+  - Promises
+  - Exponentiation Operator
+  - Classes
+  - Ternary Operator
+  - Optional chaining
+- TypeScript
+  - TS Compiler
+  - Type Annotations
+  - Interfaces
+  - Classes
+  - Generics
+  - Enums
+  - Type Inference
+  - Union and Intersection Types
+  - Type Guards
+  - Decorators
 - Advance Github
-- JavaScript (Business logic, Problem Solving)
+  - Branches
+  - PR
+  - PR review
+  - Merge
+  - Rebase
+  - Cherry Pick
 - OOP
+  - Basics only
 - DSA
-- ReactJS (Create React App, Vite)
-- NextJS (SSR, AMP)
-- Firebase
-- Payment Integration
+  - Basics only
+  
 
 ## Module 3: Back-End App Development
 ### Prerequisites
