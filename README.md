@@ -14,15 +14,19 @@
 - CSS3
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS Variables
-  - [Follow](https://www.w3schools.com/css/css3_variables.asp)
+  - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
   - [Animate.style](https://animate.style/)
 - Media queries
+  - [CSS-Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - Flexbox
-- Grid system
+  - [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Font Awesome
+  - [Fontawesome](https://fontawesome.com/icons)
 - Bootstrap
+  - [Bootstrap](https://getbootstrap.com/)
 - Google Fonts
+  - [Google Fonts](https://getbootstrap.com/)
 - Netlify Hosting
 - Github
 - GitHub Hosting
