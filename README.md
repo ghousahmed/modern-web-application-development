@@ -11,6 +11,9 @@
 ### Quizes
 - HTML5, CSS3
 
+### Hackathon
+- After completion
+
 ### Topics
 - HTML5
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
@@ -49,6 +52,9 @@
 
 ### Quizzes
 - JS1 (Chapter 1 to 20), JS2 (Chapter 21 to 40), JS3 (Chapter 41 to 60), JS4 (Chapter 61 to 89), TypeScript, Git
+
+### Hackathon
+- After completion
 
 ### Topics
 - JavaScript
@@ -103,7 +109,6 @@
   - Storage
 - PWA (Progressive Web Applications)
   - [Builder](https://www.pwabuilder.com/)
-  - 
 
 
 
@@ -116,7 +121,10 @@
 - 3 Months – 144 Hours
 
 ### Quizzes
-- React + NextJS, React Native 
+- React + NextJS, React Native
+
+### Hackathon
+- After completion
 
 ### Topics
 - ReactJS (CRA, Vite)
@@ -144,6 +152,9 @@
 
 ### Quizzes
 - NodeJS + ExpressJS, MongoDB, PostgreSQL
+
+### Hackathon
+- After completion
 
 ### Topics
 - NodeJS
