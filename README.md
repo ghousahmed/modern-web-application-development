@@ -28,10 +28,11 @@
 - Google Fonts
   - [Google Fonts](https://getbootstrap.com/)
 - Netlify Hosting
-- Github
-- GitHub Hosting
-- Surge hosting
+  - [Netlify](https://app.netlify.com/drop)
+- Git & Github Basics
+  - [Github Desktop](https://desktop.github.com/)
 - Domain & Hosting Subscription (Deployment)
+   - [Namecheap](https://www.namecheap.com/)
 
 ## Module 2: Web Front-End Development
 ### Book
