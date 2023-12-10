@@ -8,6 +8,9 @@
 ### Duration
 - 2 Months – 96 Hours
 
+### Quizes
+- HTML5, CSS3
+
 ### Topics
 - HTML5
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
@@ -43,6 +46,9 @@
 
 ### Duration
 - 4 Months – 192 Hours
+
+### Quizzes
+- JS1, JS2, JS3, JS4, TypeScript, Git
 
 ### Topics
 - JavaScript
@@ -109,6 +115,9 @@
 ### Duration
 - 3 Months – 144 Hours
 
+### Quizzes
+- React + NextJS, React Native 
+
 ### Topics
 - ReactJS (CRA, Vite)
   - [CRA](https://create-react-app.dev/)
@@ -132,6 +141,9 @@
 
 ### Duration
 - 3 Months – 144 Hours
+
+### Quizzes
+- NodeJS + ExpressJS, MongoDB, PostgreSQL
 
 ### Topics
 - NodeJS
