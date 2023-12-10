@@ -1,11 +1,11 @@
 # Web & Mobile Apps Development
 
 ## Module 1: Web Designing
+
 ### Pre-requisites 
 - Matriculation
   
 ### Duration
-
 - 2 Months – 96 Hours
 
 ### Topics
@@ -33,11 +33,16 @@
   - [Github Desktop](https://desktop.github.com/)
 - Domain & Hosting Subscription (Deployment)
    - [Namecheap](https://www.namecheap.com/)
+     
+
 
 ## Module 2: Front-End Development
 
 ### Pre-requisite
 - Module 1
+
+### Duration
+- 4 Months – 192 Hours
 
 ### Topics
 - JavaScript
@@ -83,43 +88,76 @@
   - Merge
   - Rebase
   - Cherry Pick
-- OOP
-  - Basics only
-- DSA
-  - Basics only
+- Firebase
+  - Authentication
+    - Email
+    - Phone
+    - Google
+  - Firestore
+  - Storage
+- PWA (Progressive Web Applications)
+  - [Builder](https://www.pwabuilder.com/)
+  - 
+
+
+
+## Module 3: Modern Front-End Development
+
+### Prerequisites
+- Module 01,02
+
+### Duration
+- 3 Months – 144 Hours
+
+### Topics
+- ReactJS (CRA, Vite)
+  - [CRA](https://create-react-app.dev/)
+  - [Vite](https://vitejs.dev/)
+- Tailwind CSS
+  - [Tailwind](https://tailwindcss.com/)
+- Material
+  - [MUI](https://mui.com/)
+- AntD
+  - [AntD](https://ant.design/)
+- NextJS (SSR, AMP)
+- React Native (Android)
+- Firebase (Connection)
   
 
+
 ## Module 3: Back-End App Development
+
 ### Prerequisites
-- Web Designing
-- Web Front-End Development
+- Module 02
+
+### Duration
+- 3 Months – 144 Hours
 
 ### Topics
-- NodeJS (ExpressJS, NestJS)
+- NodeJS
+  - ExpressJS
+    - Basic Routes
+    - Database Connection
+    - CRUD
+    - Authentication
+    - Middleware
+    - Protected Routes
+    - FS
+  - NestJS
 - MongoDB
+  - CRUD
+  - Queries
 - JWT
-- PassportJS
 - WebSocket
 - Bcrypt
+- Cloudinary
 - GraphQL
-- PostgresSQL
-- AWS
-- GCP
-- AZURE
+- PostgreSQL
+  - CRUD
+  - Queries
+- Sequelize
 - Payment Integration
+   - Stripe
+   - Paypal
 
-## Module 4: Mobile App Development
-### Pre-requisites
-- Web Designing
-- Web Front-End Development
 
-### Topics
-- React Native (Expo, React Native CLI)
-- Mobile Hardware Usage
-- App Security
-- Android Studio
-- Xcode
-- App Deployments (Android, iOS)
-- Payment Integration
-- API Integration
-- Firebase
