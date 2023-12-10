@@ -10,10 +10,13 @@
 
 ### Topics
 - HTML5
-  - [HTML5 and CSS3 Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS3
+  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS Variables
+  - [Follow](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
+  - [Animate.style](https://animate.style/)
 - Media queries
 - Flexbox
 - Grid system
