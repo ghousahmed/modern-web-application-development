@@ -1,8 +1,12 @@
 # Web & Mobile Apps Development
 
-## Module: Web Designing
+## Module 1: Web Designing
 ### Pre-requisites 
-- Matriculation & Basic Know-How of Computer
+- Matriculation
+  
+### Duration
+
+- 2 Months – 96 Hours
 
 ### Topics
 - Html5
@@ -17,11 +21,11 @@
 - Google Fonts
 - Netlify Hosting
 - Github
-- Github Hosting
+- GitHub Hosting
 - Surge hosting
 - Domain & Hosting Subscription (Deployment)
 
-## Module: Web Front-End Development
+## Module 2: Web Front-End Development
 ### Book
 - "A Smarter Way to Learn JavaScript"
 
@@ -40,7 +44,7 @@
 - Firebase
 - Payment Integration
 
-## Module: Back-End App Development
+## Module 3: Back-End App Development
 ### Prerequisites
 - Web Designing
 - Web Front-End Development
@@ -59,7 +63,7 @@
 - AZURE
 - Payment Integration
 
-## Module: Mobile App Development
+## Module 4: Mobile App Development
 ### Pre-requisites
 - Web Designing
 - Web Front-End Development
