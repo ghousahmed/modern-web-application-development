@@ -48,7 +48,7 @@
 - 4 Months – 192 Hours
 
 ### Quizzes
-- JS1, JS2, JS3, JS4, TypeScript, Git
+- JS1 (Chapter 1 to 20), JS2 (Chapter 21 to 40), JS3 (Chapter 41 to 60), JS4 (Chapter 61 to 89), TypeScript, Git
 
 ### Topics
 - JavaScript
