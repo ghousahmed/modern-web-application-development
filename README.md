@@ -6,7 +6,6 @@
 
 ## Module 1: Web Designing
 
-|                |                     |
 | -------------- | ------------------- |
 | Pre-requisites | Matriculation       |
 | Duration       | 2 Months - 96 Hours |
