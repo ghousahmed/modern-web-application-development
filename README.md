@@ -1,20 +1,21 @@
-# Web & Mobile Apps Development
+<h1 align='center'>Modern Web & Mobile App Development</h1>
+
+<img src='./imgs/banner.png'/>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
 
-### Pre-requisites 
-- Matriculation
-  
-### Duration
-- 2 Months – 96 Hours
-
-### Quizes
-- HTML5, CSS3
-
-### Hackathon
-- After completion
+|                |                     |
+| -------------- | ------------------- |
+| Pre-requisites | Matriculation       |
+| Duration       | 2 Months - 96 Hours |
+| Quizzes        | 1. HTML5            |
+|                | 2. CSS3             |
+| Hackathon      | After completion    |
 
 ### Topics
+
 - HTML5
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS3
@@ -38,25 +39,24 @@
 - Git & Github Basics
   - [Github Desktop](https://desktop.github.com/)
 - Domain & Hosting Subscription (Deployment)
-   - [Namecheap](https://www.namecheap.com/)
-     
-
+  - [Namecheap](https://www.namecheap.com/)
 
 ## Module 2: Front-End Development
 
-### Pre-requisite
-- Module 1
-
-### Duration
-- 4 Months – 192 Hours
-
-### Quizzes
-- JS1 (Chapter 1 to 20), JS2 (Chapter 21 to 40), JS3 (Chapter 41 to 60), JS4 (Chapter 61 to 89), TypeScript, Git
-
-### Hackathon
-- After completion
+|               |                           |
+| ------------- | ------------------------- |
+| Pre-requisite | Module 1                  |
+| Duration      | 4 Months – 192 Hours      |
+| Quizzes       | 1. JS1 (Chapter 1 to 20)  |
+|               | 2. JS2 (Chapter 21 to 40) |
+|               | 3. JS3 (Chapter 41 to 60) |
+|               | 4. JS4 (Chapter 61 to 89) |
+|               | 5. TypeScript             |
+|               | 6. Git                    |
+| Hackathon     | After completion          |
 
 ### Topics
+
 - JavaScript
   - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
   - [Assignments](https://github.com/ghousahmed/javascript-exercises)
@@ -110,23 +110,18 @@
 - PWA (Progressive Web Applications)
   - [Builder](https://www.pwabuilder.com/)
 
-
-
 ## Module 3: Modern Front-End Development
 
-### Prerequisites
-- Module 01,02
-
-### Duration
-- 3 Months – 144 Hours
-
-### Quizzes
-- React + NextJS, React Native
-
-### Hackathon
-- After completion
+|               |                          |
+| ------------- | ------------------------ |
+| Prerequisites | Module 1, 2              |
+| Duration      | 3 Months – 144 Hours     |
+| Quizzes       | 1. ReactJS               |
+|               | 2. NextJS + React Native |
+| Hackathon     | After completion         |
 
 ### Topics
+
 - ReactJS (CRA, Vite)
   - [CRA](https://create-react-app.dev/)
   - [Vite](https://vitejs.dev/)
@@ -145,24 +140,20 @@
 - NextJS (SSR, AMP)
 - React Native (Android)
 - Firebase (Connection)
-  
-
 
 ## Module 4: Back-End App Development
 
-### Prerequisites
-- Module 02
-
-### Duration
-- 3 Months – 144 Hours
-
-### Quizzes
-- NodeJS + ExpressJS, MongoDB, PostgreSQL
-
-### Hackathon
-- After completion
+|               |                       |
+| ------------- | --------------------- |
+| Prerequisites | Module 2              |
+| Duration      | 3 Months – 144 Hours  |
+| Quizzes       | 1. NodeJS + ExpressJS |
+|               | 2. MongoDB            |
+|               | 3. PostgreSQL         |
+| Hackathon     | After completion      |
 
 ### Topics
+
 - NodeJS
   - ExpressJS
     - Basic Routes
@@ -171,7 +162,7 @@
     - Authentication
     - Middleware
     - Protected Routes
-    - FS
+  - [File System module](https://nodejs.org/api/fs.html)
   - NestJS
 - MongoDB
   - CRUD
@@ -186,7 +177,5 @@
   - Queries
 - Sequelize
 - Payment Integration
-   - Stripe
-   - Paypal
-
-
+  - Stripe
+  - Paypal
