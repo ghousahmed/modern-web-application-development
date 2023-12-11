@@ -1,4 +1,6 @@
-# Web & Mobile Apps Development
+# Web & Mobile App Development
+
+<img src='./banner.png'/>
 
 ## Module 1: Web Designing
 
@@ -110,9 +112,9 @@
 
 |               |                          |
 | ------------- | ------------------------ |
-| Prerequisites | Module 01,02             |
+| Prerequisites | Module 1, 2              |
 | Duration      | 3 Months – 144 Hours     |
-| Quizzes       | 1. ReactJs               |
+| Quizzes       | 1. ReactJS               |
 |               | 2. NextJS + React Native |
 | Hackathon     | After completion         |
 
@@ -141,7 +143,7 @@
 
 |               |                       |
 | ------------- | --------------------- |
-| Prerequisites | Module 02             |
+| Prerequisites | Module 2             |
 | Duration      | 3 Months – 144 Hours  |
 | Quizzes       | 1. NodeJS + ExpressJS |
 |               | 2. MongoDB            |
@@ -158,7 +160,7 @@
     - Authentication
     - Middleware
     - Protected Routes
-    - FS
+  - [File System module](https://nodejs.org/api/fs.html)
   - NestJS
 - MongoDB
   - CRUD
