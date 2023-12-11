@@ -1,4 +1,4 @@
-<h1 align='center'>Modern Web & Mobile App Development</h1>
+<h1 align='center'>Web & Mobile App Development</h1>
 
 <img src='./imgs/banner.png'/>
 
