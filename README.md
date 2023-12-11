@@ -1,6 +1,8 @@
-# Web & Mobile App Development
+<h1 align='center'>Modern Web & Mobile App Development</h1>
 
-<img src='./banner.png'/>
+<img src='./imgs/banner.png'/>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
 
@@ -143,7 +145,7 @@
 
 |               |                       |
 | ------------- | --------------------- |
-| Prerequisites | Module 2             |
+| Prerequisites | Module 2              |
 | Duration      | 3 Months – 144 Hours  |
 | Quizzes       | 1. NodeJS + ExpressJS |
 |               | 2. MongoDB            |
