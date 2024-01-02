@@ -8,7 +8,7 @@
 |                |                     |
 | -------------- | ------------------- |
 | Pre-requisites | Matriculation       |
-| Duration       | 2 Months - 96 Hours |
+| Duration       | 2 Months - 48 Hours |
 | Quizzes        | 1. HTML5            |
 |                | 2. CSS3             |
 | Hackathon      | After completion    |
@@ -45,7 +45,7 @@
 |               |                           |
 | ------------- | ------------------------- |
 | Pre-requisite | Module 1                  |
-| Duration      | 4 Months – 192 Hours      |
+| Duration      | 4 Months – 96 Hours       |
 | Quizzes       | 1. JS1 (Chapter 1 to 20)  |
 |               | 2. JS2 (Chapter 21 to 40) |
 |               | 3. JS3 (Chapter 41 to 60) |
@@ -114,7 +114,7 @@
 |               |                          |
 | ------------- | ------------------------ |
 | Prerequisites | Module 1, 2              |
-| Duration      | 3 Months – 144 Hours     |
+| Duration      | 3 Months – 72 Hours      |
 | Quizzes       | 1. ReactJS               |
 |               | 2. NextJS + React Native |
 | Hackathon     | After completion         |
@@ -145,7 +145,7 @@
 |               |                       |
 | ------------- | --------------------- |
 | Prerequisites | Module 2              |
-| Duration      | 3 Months – 144 Hours  |
+| Duration      | 3 Months – 72 Hours   |
 | Quizzes       | 1. NodeJS + ExpressJS |
 |               | 2. MongoDB            |
 |               | 3. PostgreSQL         |
