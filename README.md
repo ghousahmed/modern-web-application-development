@@ -59,6 +59,7 @@
   - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
   - [Assignments](https://github.com/ghousahmed/javascript-exercises)
 - Advanced Javascript (All ES Versions)
+
   - Variable Scoping
   - Closure
   - Template literals
@@ -77,27 +78,43 @@
   - CallBack
   - Promises
   - Exponentiation Operator
-  - Classes
   - Ternary Operator
   - Optional chaining
+
+- Object-oriented programming (OOPs)
+
+  - Classes
+    - Easy to understand Resources ( [Class 1](https://youtu.be/k3vRSkh8-qM) | [Class 2](https://youtu.be/4HfHJJtJLRE) | [Class 3](https://www.facebook.com/share/v/4poMFRMR8hBysxn5) )
+  - Object and Instance
+  - Overview of following
+    - Abstraction
+    - Inheritance
+    - Polymorphism
+    - Data Abstraction and Encapsulation
+  - OOP in Typescript (after TS)
+    - TypeScript introduces static typing and additional features that enhances OOP like public/protected/private access modifiers etc.
+
 - TypeScript
+
   - TS Compiler
   - Type Annotations
   - Interfaces
-  - Classes
   - Generics
   - Enums
   - Type Inference
   - Union and Intersection Types
   - Type Guards
   - Decorators
+
 - Advance Github
+
   - Branches
   - PR
   - PR review
   - Merge
   - Rebase
   - Cherry Pick
+
 - Firebase
   - Authentication
     - Email
