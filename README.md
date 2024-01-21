@@ -28,10 +28,8 @@
   |4.|Flexbox|[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|
   |5.|Font Awesome|[FontAwesome](https://fontawesome.com/icons)|
   |6. |Google Fonts|[Google Fonts](https://getbootstrap.com/)|
-- Bootstrap
-  - [Bootstrap](https://getbootstrap.com/)
-- Netlify Hosting
-  - [Netlify](https://app.netlify.com/drop)
+- [Bootstrap](https://getbootstrap.com/)
+- [Netlify Hosting](https://app.netlify.com/drop)
 - Git & Github Basics
   - [Github Desktop](https://desktop.github.com/)
 - Domain & Hosting Subscription (Deployment)
@@ -139,21 +137,27 @@
 
 ### Topics
 
-- ReactJS (CRA, Vite)
-  - [CRA](https://create-react-app.dev/)
-  - [Vite](https://vitejs.dev/)
+- ReactJS ( [CRA](https://create-react-app.dev/), [ Vite](https://vitejs.dev/) )
+
   - React Icons
   - React Router DOM
   - Context API
   - Redux
   - [TanStack Query](https://tanstack.com/query/v3/)
   - [Ahooks](https://ahooks.js.org/)
+
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Material UI](https://mui.com/)
 - [AntD](https://ant.design/)
-- NextJS (SSR, AMP)
-- React Native (Android)
+- NextJS (App Router)
+
+  - Folder Based Routing
+  - Server vs Client Components
+  - Dynamic Routes and Dynamic vs Static Pages
+  - What is CSR, SSR, SSG, ISR and AMP
+
 - Firebase (Connection)
+- React Native (Android)
 
 ## Module 4: Back-End App Development
 
