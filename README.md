@@ -26,7 +26,7 @@
   |2. |CSS Animation Library|[Animate.style](https://animate.style/)|
   |3.|Media queries|[CSS-Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/)|
   |4.|Flexbox|[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|
-  |5.|Font Awesome|[FontAwesome](https://fontawesome.com/icons)|
+  |5.|Icons |[FontAwesome](https://fontawesome.com/icons) or [Google Icons](https://fonts.google.com/icons)|
   |6. |Google Fonts|[Google Fonts](https://getbootstrap.com/)|
 - [Bootstrap](https://getbootstrap.com/)
 - [Netlify Hosting](https://app.netlify.com/drop)
