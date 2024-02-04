@@ -89,7 +89,7 @@
     - Inheritance
     - Polymorphism
     - Data Abstraction and Encapsulation
-  - OOP in Typescript (after TS)
+  - OOP in Typescript (Optional)
     - TypeScript introduces static typing and additional features that enhances OOP like public/protected/private access modifiers etc.
 
 - TypeScript
@@ -137,12 +137,11 @@
 
 ### Topics
 
-- ReactJS ( [CRA](https://create-react-app.dev/), [ Vite](https://vitejs.dev/) )
+- ReactJS ( [CRA](https://create-react-app.dev/), [Vite](https://vitejs.dev/) )
 
   - React Icons
   - React Router DOM
-  - Context API
-  - Redux
+  - Context API or Redux Tool kit
   - [TanStack Query](https://tanstack.com/query/v3/)
   - [Ahooks](https://ahooks.js.org/)
 
@@ -152,8 +151,8 @@
 - NextJS (App Router)
 
   - Folder Based Routing
-  - Server vs Client Components
-  - Dynamic Routes and Dynamic vs Static Pages
+  - Server and Client Components
+  - Theory of Dynamic Routes and Dynamic vs Static Pages
   - What is CSR, SSR, SSG, ISR and AMP
 
 - Firebase (Connection)
