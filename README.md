@@ -7,7 +7,7 @@
 ## Module 1: Web Designing
 |                |                     |
 | -------------- | ------------------- |
-| Pre-requisites | Matriculation       |
+| Pre-requisites | Undergrad Student   |
 | Duration       | 2 Months - 48 Hours |
 | Quizzes        | 1. HTML5            |
 |                | 2. CSS3             |
@@ -116,7 +116,7 @@
 | Prerequisites | Module 1, 2              |
 | Duration      | 3 Months – 72 Hours      |
 | Quizzes       | 1. ReactJS               |
-|               | 2. NextJS + React Native |
+|               | 2. NextJS                |
 | Hackathon     | After completion         |
 
 ### Topics
@@ -137,7 +137,6 @@
 - AntD
   - [AntD](https://ant.design/)
 - NextJS (SSR, AMP)
-- React Native (Android)
 - Firebase (Connection)
 
 ## Module 4: Back-End App Development
@@ -162,7 +161,7 @@
     - Middleware
     - Protected Routes
   - [File System module](https://nodejs.org/api/fs.html)
-  - NestJS
+  - [NestJS](https://nestjs.com/)
 - MongoDB
   - CRUD
   - Queries
