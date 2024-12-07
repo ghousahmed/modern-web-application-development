@@ -49,6 +49,7 @@
 
 ## Module 2: Front-End Development
 
+|               |                           |
 | ------------- | ------------------------- |
 | Pre-requisite | Module 1                  |
 | Duration      | 4.5 Months                |
@@ -117,6 +118,7 @@
 
 ## Module 3: Modern Front-End Development
 
+|               |                          |
 | ------------- | ------------------------ |
 | Prerequisites | Module 1, 2              |
 | Duration      | 3 Months                 |
@@ -153,6 +155,7 @@
 
 ## Module 4: Back-End App Development
 
+|               |                       |
 | ------------- | --------------------- |
 | Prerequisites | Module 2              |
 | Duration      | 4 Months              |
@@ -197,6 +200,7 @@
 
 ## Module 5: Mobile App Development
 
+|               |                       |
 | ------------- | --------------------- |
 | Prerequisites | Module 2              |
 | Duration      | 1 Month               |
