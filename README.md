@@ -115,6 +115,8 @@
     - Google
   - Database
   - Storage
+- Certifications
+  - [JavaScript by Jetbrain](https://hyperskill.org/courses/32)
 
 ## Module 3: Modern Front-End Development
 
