@@ -65,7 +65,7 @@
 ### Topics
 
 - JavaScript
-  - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
+  - [Docs](https://javascript.info/)
   - [Assignments](https://github.com/ghousahmed/javascript-exercises)
   - Fetch API/ AJAX
 - Advanced Javascript (All ES Versions)
