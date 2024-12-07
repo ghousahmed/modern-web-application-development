@@ -7,8 +7,8 @@
 ## Module 1: Web Designing
 |                |                     |
 | -------------- | ------------------- |
-| Pre-requisites | Undergrad Student   |
-| Duration       | 2 Months - 48 Hours |
+| Pre-requisites | Matric & Computer Familiarity   |
+| Duration       | 2.5 Months          |
 | Quizzes        | 1. HTML5            |
 |                | 2. CSS3             |
 | Hackathon      | After completion    |
@@ -19,8 +19,6 @@
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS3
   - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
-- CSS Variables
-  - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
   - [Animate.style](https://animate.style/)
 - Media queries
