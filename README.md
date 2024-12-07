@@ -152,6 +152,8 @@
 - NextJS Introduction
 - Testing
   - Playwright/ Vitest
+- Certifications
+  - [React](https://www.udacity.com/course/react-nanodegree--nd019)
 
 ## Module 4: Back-End App Development
 
