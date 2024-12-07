@@ -153,7 +153,8 @@
 - Testing
   - Playwright/ Vitest
 - Certifications
-  - [React](https://www.udacity.com/course/react-nanodegree--nd019)
+  - [React Nano degree](https://www.udacity.com/course/react-nanodegree--nd019)
+  - [Meta Front-Ene](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 ## Module 4: Back-End App Development
 
