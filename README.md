@@ -12,7 +12,6 @@
 | Quizzes        | 1. HTML5            |
 |                | 2. CSS3             |
 | Hackathon      | After completion    |
-| Lead Trainer   | Rizwan Bhatti       |
 
 ### Topics
 
@@ -60,7 +59,6 @@
 |               | 5. TypeScript             |
 |               | 6. Git                    |
 | Hackathon     | After completion          |
-| Lead Trainer  | Muhammad Sufiyan          |
 
 ### Topics
 
@@ -126,7 +124,6 @@
 | Duration      | 3 Months                 |
 | Quizzes       | 1. ReactJS               |
 | Hackathon     | After completion         |
-| Lead Trainer  | Bilal Raza               |
 
 ### Topics
 - Node runtime
@@ -168,7 +165,6 @@
 |               | 2. MongoDB            |
 |               | 3. PostgreSQL         |
 | Hackathon     | After completion      |
-| Lead Trainer  | Jaffar Aman           |
 
 ### Topics
 
@@ -211,7 +207,6 @@
 | Duration      | 1 Month               |
 | Quizzes       | 1. React Native       |
 | Hackathon     | After completion      |
-| Lead Trainer  | Ahmed Raza            |
 
 ### Topics
 
