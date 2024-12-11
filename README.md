@@ -38,6 +38,11 @@
   - [Bootstrap](https://getbootstrap.com/)
 - Google Fonts
   - [Google Fonts](https://getbootstrap.com/)
+- Figma
+  - Plugins
+  - Developer Mode
+  - Pixel Perfect UI
+  - Explore if there are any AI tools
 - [Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 - Netlify Hosting
   - [Netlify](https://app.netlify.com/drop)
